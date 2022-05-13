@@ -1,2 +1,12 @@
-# myportfolio_on_w3spaces
-This is a portfolio website which is available in free domain service which is provided by w3schools
+
+# My Portfolio
+
+It is free domain service provided by w3schools. This portfolio all about
+my UI/UX experience.
+
+
+## View Live
+
+https://debashisb.w3spaces.com/
+## 🛠 Used Tools 
+HTML, CSS, Javascript
