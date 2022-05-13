@@ -9,4 +9,4 @@ my UI/UX experience.
 
 https://debashisb.w3spaces.com/
 ## 🛠 Used Tools 
-HTML, CSS, Javascript
+HTML, CSS
